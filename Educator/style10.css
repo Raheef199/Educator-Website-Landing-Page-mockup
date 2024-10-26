@@ -1,0 +1,274 @@
+body {
+  overflow-x: hidden;
+}
+/*PART 1*/
+.part-one {
+  background-color: black;
+  padding-top: 8px;
+  height: 50px;
+}
+.top-list {
+  color: white;
+  font-size: 12px;
+  display: inline-block;
+  list-style-type: none;
+  margin: 7px;
+}
+.top-list:hover {
+  color: rgb(189, 186, 186);
+  transition: 0.2s;
+  cursor: pointer;
+}
+.icons {
+  margin: -3.5px;
+  font-size: 14px;
+}
+/* PART 2*/
+.part-two {
+  height: 75px;
+  background-color: white;
+  border-bottom: 1px solid rgb(241, 236, 236);
+}
+.logo {
+  height: 83px;
+  width: 180px;
+  padding-left: 40px;
+}
+#nav-lists {
+  margin: 8px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black !important;
+  font-size: 14px;
+  cursor: pointer;
+}
+.icons1 {
+  font-size: 16px;
+}
+/*PART 3*/
+.part-three {
+  background-image: url(img/h5-slide-2.jpg);
+  background-size: cover;
+  height: 500px;
+  padding: 85px 85px;
+}
+.actions {
+  list-style-type: none;
+  display: inline-block;
+  margin: 5px;
+}
+.subbtn {
+  height: 60px;
+  width: 270px;
+  border: none;
+  color: #fff;
+  background-color: #2d76b2;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.c,
+.I,
+.p {
+  height: 55px;
+  width: 230px;
+  color: rgb(173, 170, 170);
+  padding-left: 20px;
+}
+.extended {
+  background-image: url(img/h5-slide-1.jpg);
+  background-size: cover;
+  height: 500px;
+  padding: 90px 50px;
+}
+#ref-icon {
+  background-color: rgb(189, 186, 186);
+  height: 53px;
+  width: 50px;
+  padding: 13px;
+  position: relative;
+  left: 5px;
+  top: 4px;
+  font-weight: 200;
+}
+/*PART 4*/
+.container {
+  padding-top: 120px;
+}
+.head {
+  padding-bottom: 30px;
+}
+
+/*PART 5*/
+
+.part-five {
+  background-image: url(img/china.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  padding-top: 130px;
+  margin-top: 130px;
+}
+.emailbox {
+  height: 50px;
+  width: 350px;
+  padding-left: 20px;
+}
+.sub2btn {
+  height: 50px;
+  width: 150px;
+  background-color: #2d76b2;
+  color: white;
+  border: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+/*PART 6*/
+/*PART 7*/
+.part-seven {
+  background-image: url(img/pexels-eva-bronzini-7661071.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+  padding: 120px;
+  margin-top: 40px;
+}
+/*PART 8*/
+.part-eight {
+  background-color: white;
+  text-align: center;
+  padding-top: 80px;
+}
+/*PART 9*/
+.offer {
+  border: 1px solid rgb(212, 212, 212);
+  height: 580px;
+  width: 350px;
+  padding-top: 30px;
+  text-align: center;
+}
+.offer-list {
+  list-style-type: none;
+  color: #888;
+  line-height: 1;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  padding-top: 15px;
+}
+.purchasebtn {
+  height: 60px;
+  width: 180px;
+  background-color: #2d76b2;
+  color: white;
+  border: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+.purchasebtn:hover {
+  background-color: rgb(71, 68, 68);
+  transition: 0.3s;
+  cursor: pointer;
+}
+/* PART 10*/
+.part-ten {
+  text-align: center;
+  background-color: #f7f6f6;
+  padding-top: 80px;
+  margin-top: 100px;
+}
+/*PART 11*/
+.part-eleven {
+  background-color: #f7f6f6;
+  height: 600px;
+}
+.image {
+  transition: 0.5s all ease-in-out;
+}
+.image:hover {
+}
+.img-text {
+  text-decoration: none;
+  color: black;
+  transition: 0.1s;
+}
+.img-paragraph {
+  color: #888;
+  line-height: 1.9;
+  font-family: "Open Sans", sans-serif;
+}
+.blue-box {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #2d76b2;
+  color: white;
+  height: 70px;
+  width: 70px;
+  line-height: 1;
+  padding: 8px;
+  position: absolute;
+  top: 4600px;
+  cursor: pointer;
+}
+.blue-box:hover {
+  background-color: black;
+  transition: ease-in-out 0.3s;
+}
+/*PART 12*/
+.part-twelve {
+  background-color: #e0e0e0;
+  height: 250px;
+  text-align: center;
+  padding-top: 30px;
+}
+.img-list {
+  list-style-type: none;
+  display: inline-block;
+  margin: 20px;
+}
+/* PART 13*/
+.part-thirteen {
+  background-color: #222;
+  color: white;
+}
+
+.foot-text {
+  padding-top: 15px;
+  padding-bottom: 20px;
+  color: #cccccc;
+}
+.foot-text1 {
+  font-size: 13px;
+}
+/*PART 14*/
+.part-fourteen {
+  background-color: #222;
+  height: 150px;
+  padding-top: 60px;
+}
+.media-icons {
+  list-style-type: none;
+  display: inline-block;
+  color: wheat;
+  position: relative;
+  bottom: 40px;
+  margin: 3px;
+  left: 270px;
+  cursor: pointer;
+}
+.line {
+  border-bottom: 1px solid #888;
+}
+.tw {
+  color: rgb(85, 172, 239);
+}
+.fa {
+  color: rgb(59, 89, 153);
+}
+.pi {
+  color: rgb(221, 76, 57);
+}
+.in {
+  color: rgb(228, 65, 96);
+}
